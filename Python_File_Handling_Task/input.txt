@@ -1,0 +1,2 @@
+Hello, this is my internship task.
+Learning Python File Handling.
